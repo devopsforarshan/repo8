@@ -1,0 +1,41 @@
+[33mcommit 20e7919057cf6d3f525aab41425df4c7092dc7fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 13:55:43 2020 +0530
+
+    deleted oldfile1.txt
+
+[33mcommit be98bbcdf25ce0f64e4c8191917ff0278afd0e3a[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 13:52:39 2020 +0530
+
+    This is old commit
+
+[33mcommit 94894e94596cdccb0a90603ffb030ab6958515e2[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 13:40:55 2020 +0530
+
+    ofile.txt
+
+[33mcommit 2251e218693711b200c86953dc09b46ec3cdd06b[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 11:25:47 2020 +0530
+
+    fourth commit for staged
+
+[33mcommit a4bdb744e8d7b64f994d1df91e80509972ec2e30[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 11:22:59 2020 +0530
+
+    Thir commit
+
+[33mcommit 3f28881f9e3ec514002ad66a21b3928f656fd5df[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 11:06:37 2020 +0530
+
+    commit two for diif
+
+[33mcommit ce177f16903d46bb400856ced7794bb635d63d87[m
+Author: devopsforarshan <arshan.ah05@gmail.com>
+Date:   Thu Oct 1 08:29:51 2020 +0530
+
+    First commit for 2 file
