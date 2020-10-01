@@ -1,3 +1,1 @@
-This is new file
-This line for difif
-This line is for git cached
+line for cahed/diff
